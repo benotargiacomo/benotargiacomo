@@ -3,7 +3,8 @@
 ### Meu nome é [Bernardo][linkedin], estudante de desenvolvimento Full Stack na Trybe!
 <!-- ### Full Stack Developer Student from Brazil! -->
 
-#### ➡️ <strike>[Check out my website][website]</strike>
+#### ➡️ <strike>[Visite meu portfólio][website]</strike>
+<!-- #### ➡️ <strike>[Check out my website][website]</strike> -->
 
 <br />
 
