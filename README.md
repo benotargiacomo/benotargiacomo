@@ -11,7 +11,7 @@
 | Módulo    |   | Conteúdo |
 | --------- | ---- | ----- |
 | Fundamentos | ✔️ | Unix, Git, GitHub, HTML, CSS, Javascript, Fetch API, Jest e Mocking ...  |
-| Front-end | 📍 | React, Redux, React Testing Library, Context API, Metodologias Ágeis ... |
+| Front-end | 📍 | React, Redux, React Testing Library, Context API, Scrum, Kanban ... |
 | Back-end | &#9744; | SQL, MondoDB, NodeJS, Normalização e Modelagem, Deployment, SOLID e ORM, Sockets ... |
 | Ciência da Computação | &#9744; | Python, POO, Algoritmos, Padrões de Projeto, Estrutura de Dados, Raspagem de Dados ... |
 
