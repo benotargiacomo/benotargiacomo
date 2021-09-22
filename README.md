@@ -35,10 +35,10 @@
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benotargiacomo&repo=benotargiacomo.github.io)](https://benotargiacomo.github.io/) -->
 
-<div align="center">
+<!-- <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=benotargiacomo&show_icons=true&hide_border=true&theme=react&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benotargiacomo&layout=compact&hide_border=true&langs_count=5&theme=react"/>
-</div>
+</div> -->
 
 
 [website]: https://benotargiacomo.github.io/
