@@ -10,8 +10,8 @@
 
 | Módulo    |   | Conteúdo |
 | --------- | ---- | ----- |
-| Fundamentos | ✔️ | Unix, Git, GitHub, HTML, CSS, Javascript, Fetch API, Jest e Mocking ...  |
-| Front-end | ✔️ | React, React Testing Library, Redux, Hooks, Context API, Scrum, Kanban ... |
+| [Fundamentos][fundamentos] | ✔️ | Unix, Git, GitHub, HTML, CSS, Javascript, Fetch API, Jest e Mocking ...  |
+| [Front-end][frontend] | ✔️ | React, React Testing Library, Redux, Hooks, Context API, Scrum, Kanban ... |
 | Back-end | &#9744; | Docker, SQL, MondoDB, NodeJS, Normalização e Modelagem, SOLID e ORM, Sockets ... |
 | Ciência da Computação | &#9744; | Python, POO, Algoritmos, Padrões de Projeto, Estrutura de Dados, Raspagem de Dados ... |
 
@@ -44,3 +44,5 @@
 
 [website]: https://benotargiacomo.github.io/
 [linkedin]: https://www.linkedin.com/in/bnotargiacomo/
+[fundamentos]: https://github.com/benotargiacomo/trybe-fundamentos
+[frontend]: https://github.com/benotargiacomo/trybe-frontend
