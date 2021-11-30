@@ -12,14 +12,15 @@
 | --------- | ---- | ----- |
 | [Fundamentos][fundamentos] | ✔️ | Unix, Git, GitHub, HTML, CSS, Javascript, Fetch API, Jest e Mocking ...  |
 | [Front-end][frontend] | ✔️ | React, React Testing Library, Redux, Hooks, Context API, Scrum, Kanban ... |
-| Back-end | &#9744; | Docker, SQL, MondoDB, NodeJS, Normalização e Modelagem, SOLID e ORM, Sockets ... |
-| Ciência da Computação | &#9744; | Python, POO, Algoritmos, Padrões de Projeto, Estrutura de Dados, Raspagem de Dados ... |
+| Back-end | &#9744; | Docker, SQL, NodeJS, Typescript, MondoDB, POO, SOLID, VPS, CI/CD  ... |
+| Ciência da Computação | &#9744; | Python, Algoritmos, Padrões de Projeto, Estrutura de Dados, Raspagem de Dados ... |
 
 <!-- ### Languages and Tools -->
 
 <div><br>
 
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
