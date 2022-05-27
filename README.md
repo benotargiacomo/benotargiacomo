@@ -12,8 +12,8 @@
 | --------- | ---- | ----- |
 | [Fundamentos][fundamentos] | ✔️ | Unix, Git, GitHub, HTML, CSS, Javascript, Fetch API, Jest e Mocking ...  |
 | [Front-end][frontend] | ✔️ | React, React Testing Library, Redux, Hooks, Context API, Scrum, Kanban ... |
-| [Back-end][backend] | 📍 | Docker, mySQL, Node.js, Typescript, MondoDB, POO, SOLID, VPS, CI/CD  ... |
-| Ciência da Computação | &#9744; | Python, Algoritmos, Padrões de Projeto, Estrutura de Dados, Raspagem de Dados ... |
+| [Back-end][backend] | ✔️ | Docker, mySQL, Node.js, Typescript, MondoDB, POO, SOLID, VPS, CI/CD  ... |
+| Ciência da Computação | &#9744; | Python, Padrões de Projeto, Raspagem, Estrutura de Dados ... |
 
 <!-- ### Languages and Tools -->
 
@@ -37,7 +37,7 @@
 
 
 <!-- --- -->
-
+<!-- 📍 -->
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benotargiacomo&repo=benotargiacomo.github.io)](https://benotargiacomo.github.io/) -->
