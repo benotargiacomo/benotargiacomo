@@ -2,10 +2,10 @@
   <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
     <img src="https://raw.githubusercontent.com/benotargiacomo/benotargiacomo/main/images/header.svg" alt="Name Header" />
   </a>
-  <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
     <img alt="Linkedin" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="right"/>
     <br />
-  </a>
+  </a> -->
 </h1>
 
 ```javascript
@@ -22,11 +22,17 @@ const be = {
 };
 ```
 
+<a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
+  <img alt="Linkedin" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="right"/>
+  <br />
+</a>
+
 <p>
   <a href="https://be.notargiacomo.dev" target="_blank">
-    ➡️ <strike>[Check out my website]</strike>
+    ➡️ <strike>[Check out my portfolio]</strike>
   </a>
 </p>
+
 
 <!-- <details>
   <summary><h3>🔧 Technologies & Tools </h3></summary>
