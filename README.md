@@ -23,7 +23,7 @@ const be = {
 ```
 
 <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
-  <img alt="Linkedin" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="right"/>
+  <img alt="Linkedin" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="right"/>
   <br />
 </a>
 
