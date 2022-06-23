@@ -31,7 +31,7 @@ const be = {
 </a> -->
 
 <p>
-  <a href="https://be.notargiacomo.dev" target="_blank">
+  <a href="https://notargiacomo.dev" target="_blank">
     ➡️ <strike>[Check out my portfolio]</strike>
   </a>
 </p>
