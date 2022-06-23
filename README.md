@@ -1,24 +1,36 @@
-###  👋 Opa, bem vindo!
-<!-- ###  👋 Hey, I'm Bernardo! -->
-### Meu nome é [Bernardo][linkedin], estudante de desenvolvimento Full Stack na Trybe!
-<!-- ### Full Stack Developer Student from Brazil! -->
+<h1 align="center">
+  <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
+    <img src="https://raw.githubusercontent.com/benotargiacomo/benotargiacomo/main/images/header.svg" alt="Name Header" />
+  </a>
+  <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
+    <img alt="Linkedin" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="right"/>
+    <br />
+  </a>
+</h1>
 
-<!-- #### ➡️ <strike>[Visite meu portfólio][website]</strike> -->
-<!-- #### ➡️ <strike>[Check out my website][website]</strike> -->
+```javascript
+const be = {
+  code: [Javascript, Typescript, Python],
+  tools: {
+    main: [React, Node, Express, Styled Components, Tailwind],
+    mobile: "Coming soon",
+    databases: ["MySQL", "MongoDB", "SQLite", "Sequelize", "Mongoose"],
+    tests: ["Jest", "RTL"],
+    misc: ["Docker", "Redux"]
+  },
+  learning: ["Dart", "Flutter"],
+};
+```
 
-<br />
+<p>
+  <a href="https://be.notargiacomo.dev" target="_blank">
+    ➡️ <strike>[Check out my website]</strike>
+  </a>
+</p>
 
-| Módulo    |   | Conteúdo |
-| --------- | ---- | ----- |
-| [Fundamentos][fundamentos] | ✔️ | Unix, Git, GitHub, HTML, CSS, Javascript, Fetch API, Jest e Mocking ...  |
-| [Front-end][frontend] | ✔️ | React, React Testing Library, Redux, Hooks, Context API, Scrum, Kanban ... |
-| [Back-end][backend] | ✔️ | Docker, mySQL, Node.js, Typescript, MondoDB, POO, SOLID, VPS, CI/CD  ... |
-| Ciência da Computação | &#9744; | Python, Padrões de Projeto, Raspagem, Estrutura de Dados ... |
-
-<!-- ### Languages and Tools -->
-
-<div><br>
-
+<!-- <details>
+  <summary><h3>🔧 Technologies & Tools </h3></summary>
+  <br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -32,12 +44,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
 
-
-
-<!-- --- -->
-<!-- 📍 -->
+</details> -->
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=benotargiacomo&repo=benotargiacomo.github.io)](https://benotargiacomo.github.io/) -->
@@ -46,10 +54,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=benotargiacomo&show_icons=true&hide_border=true&theme=react&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benotargiacomo&layout=compact&hide_border=true&langs_count=5&theme=react"/>
 </div> -->
-
-
-[website]: https://benotargiacomo.github.io/
-[linkedin]: https://www.linkedin.com/in/bnotargiacomo/
-[fundamentos]: https://github.com/benotargiacomo/trybe-fundamentos
-[frontend]: https://github.com/benotargiacomo/trybe-frontend
-[backend]: https://github.com/benotargiacomo/trybe-backend
