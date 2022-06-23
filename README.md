@@ -22,10 +22,13 @@ const be = {
 };
 ```
 
-<a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
+[![Linkedin: benotargiacomo](https://img.shields.io/badge/-benotargiacomo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benotargiacomo)](https://www.linkedin.com/in/benotargiacomo/)
+[![GitHub Bernardo](https://img.shields.io/github/followers/benotargiacomo?label=follow&style=social)](https://github.com/benotargiacomo)
+
+<!-- <a href="https://www.linkedin.com/in/benotargiacomo" target="_blank">
   <img alt="Linkedin" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" align="right"/>
   <br />
-</a>
+</a> -->
 
 <p>
   <a href="https://be.notargiacomo.dev" target="_blank">
