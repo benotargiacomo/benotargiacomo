@@ -18,7 +18,7 @@ const be = {
     tests: ["Jest", "RTL"],
     misc: ["Docker", "Redux", "Prisma", "Sequelize", "Mongoose"]
   },
-  learning: ["Dart", "Flutter"],
+  learning: ["React Native", "Next.js"],
 };
 ```
 
