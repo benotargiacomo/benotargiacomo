@@ -14,11 +14,11 @@ const be = {
   tools: {
     main: [React, Node, Express, tRPC, Styled Components, Tailwind],
     mobile: "Coming soon",
-    databases: ["MySQL", "MongoDB", "SQLite"],
+    databases: ["MySQL", "MongoDB"],
     tests: ["Jest", "RTL"],
-    misc: ["Docker", "Redux", "Prisma", "Sequelize", "Mongoose"]
+    misc: ["Docker", "Redux", "Prisma", "Sequelize", "Mongoose"],
   },
-  learning: ["React Native", "Next.js"],
+  learning: ["WebGL", "Next.js"]
 };
 ```
 
