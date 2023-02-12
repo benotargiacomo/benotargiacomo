@@ -10,15 +10,15 @@
 
 ```javascript
 const be = {
-  code: [Javascript, Typescript, Python],
+  code: [Javascript, Typescript, Python, GLSL],
   tools: {
-    main: [React, Node, Express, tRPC, Styled Components, Tailwind],
+    main: [React, Three.js, Node, 8thWall],
     mobile: "Coming soon",
     databases: ["MySQL", "MongoDB"],
     tests: ["Jest", "RTL"],
-    misc: ["Docker", "Redux", "Prisma", "Sequelize", "Mongoose"],
+    misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Redux", "Prisma", "Sequelize", "Mongoose"],
   },
-  learning: ["WebGL", "Next.js"]
+  learning: ["Go", "Next.js"]
 };
 ```
 
