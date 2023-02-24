@@ -18,7 +18,7 @@ const be = {
     tests: ["Jest", "RTL"],
     misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Redux", "Prisma", "Sequelize", "Mongoose"],
   },
-  learning: ["GLSL", "Go", "Next.js"]
+  learning: ["GLSL", "Rust", "Next.js"]
 };
 ```
 
