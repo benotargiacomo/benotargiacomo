@@ -12,13 +12,13 @@
 const be = {
   code: [Javascript, Typescript, Python],
   tools: {
-    main: ["React", "WebGL", "Node", "8thWall"],
+    main: ["React", "WebGL", "Node", "Next.js", "8thWall"],
     mobile: "Coming soon",
     databases: ["MySQL", "MongoDB"],
     tests: ["Jest", "RTL"],
     misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Redux", "Prisma", "Sequelize", "Mongoose"],
   },
-  learning: ["GLSL", "C", "Next.js"]
+  learning: ["GLSL", "C", "Svelte"]
 };
 ```
 
