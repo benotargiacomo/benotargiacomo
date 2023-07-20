@@ -10,7 +10,7 @@
 
 ```javascript
 const be = {
-  code: [Javascript, Typescript, Python],
+  code: [Javascript, Typescript],
   tools: {
     main: ["React", "WebGL", "Node", "Next.js", "8thWall"],
     mobile: "Coming soon",
@@ -18,7 +18,7 @@ const be = {
     tests: ["Jest", "RTL"],
     misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Redux", "Prisma", "Sequelize", "Mongoose"],
   },
-  learning: ["GLSL", "Go", "Svelte"]
+  learning: ["C", "Go", "Svelte"]
 };
 ```
 
