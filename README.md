@@ -12,11 +12,11 @@
 const be = {
   code: [Javascript, Typescript],
   tools: {
-    main: ["React", "WebGL", "Node", "Next.js", "8thWall"],
+    main: ["React", "Node", "Next.js", "Three.js", "8thWall"],
     mobile: "Coming soon",
     databases: ["MySQL", "MongoDB"],
     tests: ["Jest", "RTL"],
-    misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Redux", "Prisma", "Sequelize", "Mongoose"],
+    misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Prisma", "Sequelize", "Mongoose"],
   },
   learning: ["C", "Go", "Svelte"]
 };
