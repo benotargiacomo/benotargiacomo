@@ -10,7 +10,7 @@
 
 ```javascript
 const be = {
-  code: [Javascript, Typescript],
+  code: [Javascript, Typescript, Python],
   tools: {
     main: ["React", "Node", "Next.js", "Three.js", "8thWall"],
     mobile: "Coming soon",
