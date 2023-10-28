@@ -16,7 +16,7 @@ const be = {
     mobile: ["React Native"],
     databases: ["MySQL", "MongoDB"],
     tests: ["Jest", "RTL"],
-    misc: ["Docker", "Express", "tRPC", "Styled Components", "Tailwind", "Prisma", "Sequelize", "Mongoose"],
+    misc: ["Docker", "Fastify", "tRPC", "Styled Components", "Tailwind", "Prisma", "Sequelize", "Mongoose"],
   },
   learning: ["C#", "Tensorflow.js"]
 };
