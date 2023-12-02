@@ -12,11 +12,9 @@
 const be = {
   code: [Javascript, Typescript, Python],
   tools: {
-    main: ["React.js", "Node.js", "Next.js", "Three.js", "Sass", "Tailwind", "8thWall", "HTML", "CSS"],
+    main: ["React.js", "Node.js", "WebGL", "Three.js", "8thWall", "HTML", "CSS"],
     mobile: ["React Native"],
-    databases: ["MySQL", "MongoDB"],
-    tests: ["Jest", "RTL"],
-    misc: ["Docker", "Fastify", "tRPC", "Styled Components", "Tailwind", "Prisma", "Sequelize", "Mongoose"],
+    misc: ["Docker", "MySQL", "MongoDB", "Express", "Fastify", "tRPC", "Tailwind", "Prisma", "Sequelize", "Mongoose"],
   },
   learning: ["C#", "Tensorflow.js"]
 };
