@@ -14,7 +14,7 @@ const be = {
   tools: {
     main: ["React.js", "Node.js", "WebGL", "Three.js", "8thWall", "HTML", "CSS"],
     mobile: ["React Native"],
-    misc: ["Docker", "MySQL", "MongoDB", "Express", "Fastify", "tRPC", "Tailwind", "Prisma", "Sequelize", "Mongoose"],
+    misc: ["Docker", "MySQL", "MongoDB", "Express", "Fastify", "tRPC", "Tailwind", "SASS", "Prisma", "Sequelize", "Mongoose"],
   },
   learning: ["C#", "Tensorflow.js"]
 };
