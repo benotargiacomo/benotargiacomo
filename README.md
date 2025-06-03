@@ -12,7 +12,7 @@
 const be = {
   code: [Javascript, Typescript, Python],
   tools: {
-    main: ["React.js", "Node.js", "WebGL", "Three.js", "8thWall", "HTML", "CSS"],
+    main: ["React.js", "Node.js", "WebGL", "Three.js", "HTML", "CSS"],
     mobile: ["React Native"],
     misc: ["Docker", "MySQL", "MongoDB", "Express", "Fastify", "tRPC", "Tailwind", "SASS", "Prisma", "Sequelize", "Mongoose"],
   },
