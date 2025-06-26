@@ -16,7 +16,7 @@ const be = {
     mobile: ["React Native"],
     misc: ["Docker", "MySQL", "MongoDB", "Express", "Fastify", "tRPC", "Tailwind", "SASS", "Prisma", "Sequelize", "Mongoose"],
   },
-  learning: ["Go", "Tensorflow.js"]
+  learning: ["C#", "Tensorflow.js"]
 };
 ```
 
